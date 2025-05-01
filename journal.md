@@ -1,19 +1,11 @@
 # 📆 May 01, 2025
 
 ### ✅ Highlight
-Automating my journal is working now
+Adding a script to automate the date on this journal. 
 
 ### 🌱 Opportunity
-(Write your opportunity here)
+I am looking excited to continue with the L2C journey. 
 
 ### ⚡️ Challenge
-(Write your challenge here)
+The script is adding a second set of "highlight, opportunity, challenge" at the end of the journal entry so I need to troubleshoot that." 
 
-### ✅ Highlight
-Did something awesome.
-
-### 🌱 Opportunity
-Found a chance to improve.
-
-### ⚡️ Challenge
-Faced a tough issue.
