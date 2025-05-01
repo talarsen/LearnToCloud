@@ -1,8 +1,8 @@
 # ☁️ LearnToCloud
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/LearnToCloud)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/LearnToCloud)
+![GitHub last commit](https://img.shields.io/github/last-commit/talarsen/LearnToCloud)
+![GitHub repo size](https://img.shields.io/github/repo-size/talarsen/LearnToCloud)
 
 Welcome to my **LearnToCloud** project. L2C is open-source initiative to help people master cloud computing through **hands-on projects**, **step-by-step guides**, and **community support**. 🚀
 
